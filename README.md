@@ -27,6 +27,10 @@ The Canada mortality data came from https://www150.statcan.gc.ca/t1/tbl1/en/tv.a
 
 # How to plot it
 
-Run
+Run plot.py to plot the Ottawa data.
 
         ./plot.py
+
+Run canada.py to plot the Canadian/Ontario data.
+
+        ./canada.py
